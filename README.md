@@ -9,6 +9,7 @@
 
 ## About project
 login with google bat dauka baina ez dakit badabilen
+socialite dauka eta githuben dago
 
 ## About Laravel
 
